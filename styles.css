@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+
+}
+
+.grid-container{
+    display: grid;
+    min-height: 50vh;
+    border: 1px solid black;
+    width: 100px;
+    justify-content: center;
+    justify-items: center;
+}
