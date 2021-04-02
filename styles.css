@@ -1,17 +1,18 @@
-* {
-    padding: 0px;
-    margin: 0px;
-}
+
 
 body{
+    text-align: center;
+    font-family: "Consolas", "Helvetica", "Arial", sans-serif;
+    margin-top: 300px;
 
 }
 
-.grid-container{
-    display: grid;
-    min-height: 50vh;
-    border: 1px solid black;
-    width: 100px;
-    justify-content: center;
-    justify-items: center;
+#clock {
+    font-weight: 300;
+    font-size: 150px;
+}
+
+#color{
+    font-weight: 300;
+    font-size: 50px;
 }
